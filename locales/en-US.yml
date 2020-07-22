@@ -16,13 +16,11 @@ btn_go_back: Back
 main_start_group: Hey there! I'm alive :3
 
 main_start_pm: |
-  Hey there! My name is QuantumBot - I'm here to help you manage your groups!
+  Hey there! I am a bot of the official Violet Chat - I'm here to help you manage your groups!
   Click Help button to find out more about how to use me to my full potential.
 
-  This bot is maintained by this [nub guy](t.me/thedenomparkour)
-
-  This is an stock fork of HarukaAya by @realakito
-  Made with love by @thedenomparkour\n\nWant to add me to your group? [Click here!](t.me/thephotogenicbot?startgroup=true)
+  This bot is maintained by this [nub guy](t.me/brucetech)
+ 
 
 main_start_btn_support: '📢 Support Group'
 main_start_btn_ctrlpnl: '🛠 Control panel'
